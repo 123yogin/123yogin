@@ -14,16 +14,13 @@
 **Innovative Full Stack Developer** and **AI/ML Engineer** with proven expertise in building scalable web applications and intelligent systems. Passionate about leveraging technology to solve real-world problems in healthcare, education, and business automation.
 
 ### 🎯 **Currently Working On:**
-- 🧠 **IntelliHire** - AI-Powered Proctored Testing Platform (Advanced Computer Vision & NLP)
-- 🔄 **Microservices Architecture** for enterprise-level applications
-- 📊 **Data-Driven Solutions** for business intelligence
-
+- 🧠 **IntelliHire** - AI-Powered Proctored Testing Platform (Computer Vision & NLP)
+  
 ### 🌟 **Key Strengths:**
-- ✅ **3+ years** of hands-on development experience
-- ✅ **End-to-end project delivery** from concept to deployment
+- ✅ **End-to-end project delivery** from conception to deployment
 - ✅ **Cross-functional collaboration** with business stakeholders
-- ✅ **Agile/Scrum methodologies** and version control expertise
-- ✅ **Performance optimization** and scalable system design
+- ✅ **Scrum/Agile methodologies** and version control skills
+- ✅ **Performance optimization** and system design with scalability
 
 ---
 
@@ -58,8 +55,6 @@
 
 ### 🛠️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
@@ -122,15 +117,6 @@ class ProfessionalYogin:
         self.name = "Yogin Parmar"
         self.title = "Full Stack Developer & ML Engineer"
         self.location = "Gandhinagar, Gujarat, India"
-        self.experience = "3+ years"
-        
-        self.core_values = {
-            "code_quality": "Clean, maintainable, and scalable code",
-            "continuous_learning": "Always staying updated with latest tech",
-            "problem_solving": "Turning complex challenges into elegant solutions",
-            "collaboration": "Effective teamwork and communication",
-            "delivery": "Meeting deadlines with high-quality results"
-        }
         
         self.career_goals = [
             "Building impactful products that solve real problems",
@@ -178,9 +164,6 @@ print(developer.available_for_opportunities())
 ![Profile Views](https://komarev.com/ghpvc/?username=123yogin&color=blueviolet&style=for-the-badge&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/123yogin?style=for-the-badge&color=blue&label=GitHub+Followers)
 ![Stars](https://img.shields.io/github/stars/123yogin?style=for-the-badge&color=yellow&label=Total+Stars)
-
-### 💼 **Recruiter Notice:** 
-*Experienced developer with proven track record in full-stack development and machine learning. Available for immediate technical interviews and code reviews.*
 
 ---
 
