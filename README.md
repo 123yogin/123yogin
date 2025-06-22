@@ -10,9 +10,8 @@
 
 I'm a passionate **Full Stack Developer** and **Machine Learning Enthusiast** from Gandhinagar, Gujarat. I love building innovative web applications and exploring the fascinating world of AI/ML to solve real-world problems.
 
-- 🔭 Currently working on **Quiz Applications** and **Health Prediction Systems**
+- 🔭 Currently working on 🧠 IntelliHire - AI-Powered Proctored Testing Platform
 - 🌱 Learning advanced **Machine Learning** techniques and **Backend Architecture**
-- 💡 Passionate about **Healthcare Technology** and **Web Development**
 - 🎯 Goal: Contributing to impactful projects that make a difference
 - ⚡ Fun fact: I love turning complex problems into simple, elegant solutions!
 
@@ -52,11 +51,9 @@ I'm a passionate **Full Stack Developer** and **Machine Learning Enthusiast** fr
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[🧠 Heart Disease Prediction](https://github.com/123yogin/Heart_Diseases_Prediction_System)** | ML-powered web app for predicting heart disease likelihood | Python, ML, HTML, Flask |
-| **[📝 Quiz Application Backend](https://github.com/123yogin/Quizapplication_backend)** | Robust backend API for quiz management system | Java, Spring Boot, REST API |
 | **[🏋️ Fitness Tracker](https://github.com/123yogin/Fitness-Tracker-Website)** | Responsive web app for fitness goal tracking | Flask, HTML, CSS, JavaScript |
 | **[📰 Fake News Detection](https://github.com/123yogin/fake-news-detection-using-machine-learning)** | ML model to classify news as real or fake | Python, NLP, Machine Learning |
-| **[📦 Inventory Management](https://github.com/123yogin/SSIP-Inventory-management-system)** | Smart inventory management solution | Python, Data Analytics |
+| **[🧠 Heart Disease Prediction](https://github.com/123yogin/Heart_Diseases_Prediction_System)** | ML-powered web app for predicting heart disease likelihood | Python, ML, HTML, Flask |
 
 </div>
 
