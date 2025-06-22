@@ -67,7 +67,7 @@
 
 | 🎯 Project | 📋 Description | 🔧 Tech Stack | 🌟 Impact |
 |------------|----------------|---------------|-----------|
-| **[🧠 IntelliHire Platform](https://github.com/123yogin)** | AI-powered proctored testing with real-time monitoring | Python, OpenCV, ML, Flask | **50%** reduction in manual oversight |
+| **[🧠 IntelliHire Platform](https://github.com/123yogin/-IntelliHire-Platform)** | AI-powered proctored testing with real-time monitoring | Python, OpenCV, ML, Flask | **50%** reduction in manual oversight |
 | **[🏋️ Fitness Tracker Pro](https://github.com/123yogin/Fitness-Tracker-Website)** | Full-stack fitness monitoring with goal tracking | Flask, SQLite, Chart.js | **1000+** user interactions |
 | **[📰 Fake News Detector](https://github.com/123yogin/fake-news-detection-using-machine-learning)** | NLP-based news authenticity classifier | Python, NLTK, scikit-learn | **92%** accuracy rate |
 | **[❤️ Heart Disease Predictor](https://github.com/123yogin/Heart_Diseases_Prediction_System)** | ML-powered healthcare diagnostic tool | Python, ML, Flask, HTML | Assists healthcare professionals |
