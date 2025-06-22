@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Yogin Parmar
-### Full Stack Developer | Machine Learning Engineer | Problem Solver
+### Full Stack Developer | Machine Learning Engineer 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=700&lines=Full+Stack+Developer+with+3%2B+Years+Experience+%F0%9F%9A%80;AI%2FML+Engineer+%7C+Python+Expert+%F0%9F%A4%96;Building+Scalable+Web+Applications+%F0%9F%92%BB;Open+Source+Contributor+%E2%9C%A8;Ready+for+New+Opportunities+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
@@ -11,7 +11,7 @@
 
 ## 🚀 Professional Summary
 
-**Innovative Full Stack Developer** and **AI/ML Engineer** with proven expertise in building scalable web applications and intelligent systems. Passionate about leveraging technology to solve real-world problems in healthcare, education, and business automation.
+**Software Developer** and **AI/ML Engineer** with proven expertise in building scalable web applications and intelligent systems. Passionate about leveraging technology to solve real-world problems in healthcare, education, and business automation.
 
 ### 🎯 **Currently Working On:**
 - 🧠 **IntelliHire** - AI-Powered Proctored Testing Platform (Computer Vision & NLP)
@@ -103,8 +103,6 @@
 ### 💼 **Ready for Opportunities In:**
 - 🚀 **Full Stack Development** (MERN/MEAN Stack)
 - 🤖 **Machine Learning Engineering**
-- 📊 **Data Science & Analytics**
-- ☁️ **Cloud Development** (AWS/Azure)
 - 🏢 **Enterprise Software Development**
 
 ---
