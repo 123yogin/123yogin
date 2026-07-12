@@ -1,49 +1,87 @@
-# Yogin Parmar
-
-**Full-stack developer building web apps, cloud-native systems, and AI-powered tools.**
-Based in Gandhinagar, India. Comfortable across React/TypeScript, Python (Flask), Java (Spring Boot), and AWS.
-
-- 🔭 **Currently building [Sammati](https://github.com/123yogin)** — a DPDP-compliant consent & data-rights platform for Indian healthcare, with a tamper-evident (hash-chained) audit ledger. Runs locally on the Floci AWS emulator and deploys unchanged to AWS (RDS, S3, SQS/Lambda, Kubernetes).
-- 🌱 **Open source:** contributed an **AWS SQS adapter** to the [floci-io/floci-ui](https://github.com/floci-io/floci-ui/pull/137) local-cloud console.
-- 💬 Ask me about full-stack apps, REST APIs, real-time systems, or cloud-native architecture.
-
----
-
-## 🚀 Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[IntelliHire](https://github.com/123yogin/IntelliHire-Platform)** | Proctored online testing platform with real-time monitoring | React · TypeScript · Supabase · Vite |
-| **[Antigravity Operator](https://github.com/123yogin/Antigravity_Agent_backend)** | A local autonomous AI agent that plans, executes, self-debugs, and retries tasks | Python · Playwright · Next.js |
-| **[Collab AI](https://github.com/123yogin/collab-ai-backend)** | Real-time collaborative workspace with AI (summarize/rewrite/translate) | Express · Socket.io · PostgreSQL/Prisma · Gemini |
-| **[Deepfake Detection](https://github.com/123yogin/deepfakedetectionmodel)** | Deepfake detector using multiple models with ensemble fusion | Python · Deep Learning · Computer Vision |
-| **[RestroSuite POS](https://github.com/123yogin/petpooja-java-backend)** | Restaurant point-of-sale & billing with real-time kitchen updates | Spring Boot · WebSocket · PostgreSQL · React |
-
----
-
-## 🛠️ Tech I work with
-
-**Languages** · Python · TypeScript/JavaScript · Java · SQL
-**Frontend** · React · Vite · Tailwind CSS
-**Backend** · Flask · Node/Express · Spring Boot · REST APIs · WebSockets
-**Data / AI** · PostgreSQL · scikit-learn · OpenCV · Pandas
-**Cloud / DevOps** · AWS (RDS, S3, SQS, Lambda, Cognito) · Docker · Kubernetes · Git
-
----
-
-## 📊 GitHub activity
-
+<!-- ============ HEADER BANNER ============ -->
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=123yogin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=stars&theme=default" alt="GitHub stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=123yogin&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Top languages" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8E7BFF,100:00D4FF&height=210&section=header&text=Yogin%20Parmar&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20•%20Cloud-Native%20•%20AI%20Developer&descSize=18&descAlignY=60" width="100%" />
 </div>
 
----
+<!-- ============ TYPING SVG ============ -->
+<div align="center">
 
-## 🤝 Connect
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;Cloud-Native+%26+AWS+builder+%E2%98%81%EF%B8%8F;Shipping+AI-powered+products+%F0%9F%A4%96;Open-Source+Contributor+%E2%9C%A8)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1f6feb?logo=googlechrome&logoColor=white)](https://portfolio-website-main-five-vert.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogin-parmar-15b7aa1a8/)
-[![Email](https://img.shields.io/badge/Email-ea4335?logo=gmail&logoColor=white)](mailto:yoginparmar04@gmail.com)
+</div>
 
-Open to full-stack, backend, and cloud/AI engineering roles.
+<!-- ============ ABOUT ============ -->
+## 👋 About me
+
+I build **web apps, cloud-native systems, and AI-powered tools** end to end — from React/TypeScript front-ends to Python, Node, and Java Spring Boot back-ends, deployed on AWS with Docker and Kubernetes. Based in **Gandhinagar, India**.
+
+- 🔭 **Currently building [Sammati](https://github.com/123yogin)** — a DPDP-compliant consent & data-rights platform for Indian healthcare, with a **tamper-evident, hash-chained audit ledger**. Runs locally on the Floci AWS emulator and deploys unchanged to AWS (RDS · S3 · SQS/Lambda · Kubernetes).
+- 🌱 **Open source** — contributed an **AWS SQS adapter** to the [floci-io/floci-ui](https://github.com/floci-io/floci-ui/pull/137) local-cloud console.
+- 🎯 Open to **full-stack, backend, and cloud/AI engineering** roles.
+
+<br/>
+
+<!-- ============ TECH STACK ============ -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=py,ts,js,java,react,vite,tailwind,flask,nodejs,spring&perline=10)
+![Skills](https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,kubernetes,aws,git,github,tensorflow,sklearn&perline=10)
+
+</div>
+
+<br/>
+
+<!-- ============ FEATURED PROJECTS ============ -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | What it is | Stack |
+|:--|:--|:--|
+| 🧠 **[IntelliHire](https://github.com/123yogin/IntelliHire-Platform)** | Proctored online testing platform with real-time monitoring | React · TypeScript · Supabase |
+| 🤖 **[Antigravity Operator](https://github.com/123yogin/Antigravity_Agent_backend)** | Local autonomous AI agent — plans, executes, self-debugs, retries | Python · Playwright · Next.js |
+| 🧩 **[Collab AI](https://github.com/123yogin/collab-ai-backend)** | Real-time collaborative workspace with AI assist | Express · Socket.io · Prisma · Gemini |
+| 🕵️ **[Deepfake Detection](https://github.com/123yogin/deepfakedetectionmodel)** | Multi-model deepfake detector with ensemble fusion | Python · Deep Learning · OpenCV |
+| 🍽️ **[RestroSuite POS](https://github.com/123yogin/petpooja-java-backend)** | Restaurant POS & billing with real-time kitchen updates | Spring Boot · WebSocket · PostgreSQL |
+
+</div>
+
+<br/>
+
+<!-- ============ GITHUB STATS ============ -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=123yogin&show_icons=true&include_all_commits=true&count_private=true&hide=stars&hide_border=true&theme=tokyonight&title_color=6C63FF&icon_color=00D4FF" alt="stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=123yogin&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=6C63FF" alt="top langs" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123yogin&hide_border=true&theme=tokyonight&ring=6C63FF&fire=00D4FF&currStreakLabel=6C63FF" alt="streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=123yogin&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
+</div>
+
+<br/>
+
+<!-- ============ CONNECT ============ -->
+## 🤝 Connect with me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-website-main-five-vert.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogin-parmar-15b7aa1a8/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoginparmar04@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/123yogin)
+
+<img src="https://komarev.com/ghpvc/?username=123yogin&style=for-the-badge&color=6C63FF&label=Profile+Views" alt="views" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:8E7BFF,100:6C63FF&height=110&section=footer" width="100%" />
+</div>
