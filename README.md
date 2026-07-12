@@ -54,16 +54,7 @@ I build **web apps, cloud-native systems, and AI-powered tools** end to end — 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=123yogin&show_icons=true&include_all_commits=true&count_private=true&hide=stars&hide_border=true&theme=tokyonight&title_color=6C63FF&icon_color=00D4FF" alt="stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=123yogin&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=6C63FF" alt="top langs" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123yogin&hide_border=true&theme=tokyonight&ring=6C63FF&fire=00D4FF&currStreakLabel=6C63FF" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=123yogin&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
+  <img src="https://streak-stats.demolab.com/?user=123yogin&hide_border=true&theme=tokyonight&ring=6C63FF&fire=00D4FF&currStreakLabel=6C63FF" alt="GitHub streak stats" />
 </div>
 
 <br/>
