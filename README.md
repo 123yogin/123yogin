@@ -40,11 +40,12 @@ I build **web apps, cloud-native systems, and AI-powered tools** end to end — 
 
 | Project | What it is | Stack |
 |:--|:--|:--|
-| 🧠 **[IntelliHire](https://github.com/123yogin/IntelliHire-Platform)** | Proctored online testing platform with real-time monitoring | React · TypeScript · Supabase |
-| 🤖 **[Antigravity Operator](https://github.com/123yogin/Antigravity_Agent_backend)** | Local autonomous AI agent — plans, executes, self-debugs, retries | Python · Playwright · Next.js |
-| 🧩 **[Collab AI](https://github.com/123yogin/collab-ai-backend)** | Real-time collaborative workspace with AI assist | Express · Socket.io · Prisma · Gemini |
+| 🍽️ **RestroSuite POS** · [API](https://github.com/123yogin/petpooja-java-backend) · [UI](https://github.com/123yogin/petpooja-java-frontend) | Full-stack restaurant POS — GST billing & PDF invoices, real-time kitchen display, inventory, HR, analytics, multi-outlet | Spring Boot · WebSocket · JWT/Cognito · PostgreSQL · React |
+| 🧠 **[IntelliHire](https://github.com/123yogin/IntelliHire)** | AI-proctored online exam platform with real-time candidate monitoring | React · TypeScript · Supabase · OpenCV |
+| 🤖 **[Antigravity Operator](https://github.com/123yogin/Antigravity_Agent_backend)** | Autonomous AI agent that plans, executes, self-debugs & retries tasks with persistent memory | Python · Playwright · Next.js |
+| 🧩 **[Collab AI](https://github.com/123yogin/collab-ai-backend)** | Real-time collaborative workspace with AI assist (summarize / rewrite / translate) | Express · Socket.io · Prisma · Gemini |
+| 💸 **[Expense Tracker API](https://github.com/123yogin/expensetracker-backend)** | Cleanly layered REST API — 14 feature modules, SQL migrations, tests, Dockerized | Flask · PostgreSQL · Gunicorn |
 | 🕵️ **[Deepfake Detection](https://github.com/123yogin/deepfakedetectionmodel)** | Multi-model deepfake detector with ensemble fusion | Python · Deep Learning · OpenCV |
-| 🍽️ **[RestroSuite POS](https://github.com/123yogin/petpooja-java-backend)** | Restaurant POS & billing with real-time kitchen updates | Spring Boot · WebSocket · PostgreSQL |
 
 </div>
 
