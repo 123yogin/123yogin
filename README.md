@@ -41,6 +41,7 @@ I build **web apps, cloud-native systems, and AI-powered tools** end to end — 
 | Project | What it is | Stack |
 |:--|:--|:--|
 | 🍽️ **RestroSuite POS** · [API](https://github.com/123yogin/petpooja-java-backend) · [UI](https://github.com/123yogin/petpooja-java-frontend) | Full-stack restaurant POS — GST billing & PDF invoices, real-time kitchen display, inventory, HR, analytics, multi-outlet | Spring Boot · WebSocket · JWT/Cognito · PostgreSQL · React |
+| 📝 **[Blog Platform](https://github.com/123yogin/Blog_Website)** | Full-stack blog — SEO/RSS, markdown editor, and 6 AWS services (S3, SES, SNS, ElastiCache) running on the Floci emulator, AWS-portable | React · Express · PostgreSQL · AWS |
 | 🧠 **[IntelliHire](https://github.com/123yogin/IntelliHire)** | AI-proctored online exam platform with real-time candidate monitoring | React · TypeScript · Supabase · OpenCV |
 | 🤖 **[Antigravity Operator](https://github.com/123yogin/Antigravity_Agent_backend)** | Autonomous AI agent that plans, executes, self-debugs & retries tasks with persistent memory | Python · Playwright · Next.js |
 | 🧩 **[Collab AI](https://github.com/123yogin/collab-ai-backend)** | Real-time collaborative workspace with AI assist (summarize / rewrite / translate) | Express · Socket.io · Prisma · Gemini |
