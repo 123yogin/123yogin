@@ -1,7 +1,7 @@
 name: Update Recent Activity
 
 # Refreshes the "Recent Activity" section of the profile README from real
-# GitHub events (commits, PRs, issues, releases) on a schedule.
+# GitHub events (opened/merged PRs, issues, releases) on a schedule.
 
 on:
   schedule:
@@ -20,7 +20,8 @@ jobs:
 
       - name: Update recent activity in README
         uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "chore: refresh recent activity"
-          MAX_LINES: 5
-          TARGET_ACCOUNT: 123yogin
+          MAX_LINES: 6
