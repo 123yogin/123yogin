@@ -50,6 +50,14 @@ I build **web apps, cloud-native systems, and AI-powered tools** end to end — 
 
 <br/>
 
+<!-- ============ RECENT ACTIVITY (auto-updated by GitHub Action) ============ -->
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/>
+
 <!-- ============ GITHUB STATS ============ -->
 ## 📊 GitHub Stats
 
