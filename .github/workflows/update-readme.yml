@@ -1,0 +1,26 @@
+name: Update Recent Activity
+
+# Refreshes the "Recent Activity" section of the profile README from real
+# GitHub events (commits, PRs, issues, releases) on a schedule.
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # twice a day
+  workflow_dispatch:          # allow manual runs
+
+permissions:
+  contents: write
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update recent activity in README
+        uses: jamesgeorge007/github-activity-readme@master
+        with:
+          COMMIT_MSG: "chore: refresh recent activity"
+          MAX_LINES: 5
+          TARGET_ACCOUNT: 123yogin
