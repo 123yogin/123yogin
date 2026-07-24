@@ -56,7 +56,7 @@ I build **web apps, cloud-native systems, and AI-powered tools** end to end — 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16284](https://github.com/JabRef/jabref/pull/16284) in [JabRef/jabref](https://github.com/JabRef/jabref)
+1. 🎉 Merged PR [#1](https://github.com/Dhvani226/ThePetPhysioVet/pull/1) in [Dhvani226/ThePetPhysioVet](https://github.com/Dhvani226/ThePetPhysioVet)
 <!--END_SECTION:activity-->
 
 <br/>
