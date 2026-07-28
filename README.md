@@ -56,7 +56,7 @@ I build **web apps, cloud-native systems, and AI-powered tools** end to end — 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Dhvani226/ThePetPhysioVet/pull/1) in [Dhvani226/ThePetPhysioVet](https://github.com/Dhvani226/ThePetPhysioVet)
+1. 🎉 Merged PR [#1](https://github.com/123yogin/yoginparmar-portfolio/pull/1) in [123yogin/yoginparmar-portfolio](https://github.com/123yogin/yoginparmar-portfolio)
 <!--END_SECTION:activity-->
 
 <br/>
