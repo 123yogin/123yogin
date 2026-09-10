@@ -40,6 +40,7 @@ I build **web apps, cloud-native systems, and AI-powered tools** end to end — 
 
 | Project | What it is | Stack |
 |:--|:--|:--|
+| ✅ **[Cross Off](https://crossoff.vercel.app)** · [live](https://crossoff.vercel.app) | Tracker for challenges that end — 75 Hard, Couch to 5K, 30-day resets; a grid that fills in, a countdown, and a finish line. Web + Android, no account needed to try, completely free | React · TypeScript · FastAPI · Postgres · Capacitor |
 | 🍽️ **RestroSuite POS** · [API](https://github.com/123yogin/petpooja-java-backend) · [UI](https://github.com/123yogin/petpooja-java-frontend) | Full-stack restaurant POS — GST billing & PDF invoices, real-time kitchen display, inventory, HR, analytics, multi-outlet | Spring Boot · WebSocket · JWT/Cognito · PostgreSQL · React |
 | 📝 **[Blog Platform](https://github.com/123yogin/Blog_Website)** | Full-stack blog — SEO/RSS, markdown editor, and 6 AWS services (S3, SES, SNS, ElastiCache) running on the Floci emulator, AWS-portable | React · Express · PostgreSQL · AWS |
 | 🧠 **[IntelliHire](https://github.com/123yogin/IntelliHire)** | AI-proctored online exam platform with real-time candidate monitoring | React · TypeScript · Supabase · OpenCV |
